@@ -5,7 +5,7 @@
 <h1 align="center">⚡Meow-Userbot⚡</h1>
 
 
-[![Meow userbot logo](https://telegra.ph/file/3c2932815330a143fa1a8.png)](https://t.me/Meow_userbot)
+[![Meow userbot logo](https://telegra.ph/file/3c2932815330a143fa1a8.png)](https://t.me/MR_KISHAN_OFFICIAL_userbot)
 
 <h2 align="center">USERBOT</h2>
 
